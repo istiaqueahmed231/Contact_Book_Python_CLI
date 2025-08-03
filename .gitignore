@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# IDE config (e.g., PyCharm, VSCode)
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# CSV or output files (optional: if generated at runtime)
+all_contacts.csv
+
+# Logs
+*.log
+
+# Environment variable files (if any)
+.env
